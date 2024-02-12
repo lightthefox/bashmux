@@ -28,7 +28,7 @@ sys("pkg upgrade -y && pkg update -y && pkg upgrade -y")
 dotDotDot(3)
 sys("clear")
 print("Installing Packages...")
-sys("pkg install tmux openssl git neofetch cmatrix clang top figlet")
+sys("pkg install tmux openssl git neofetch cmatrix clang figlet")
 sys("cp ./newbashrc ~/../usr/etc/bash.bashrc")
 
 sys("clear")
