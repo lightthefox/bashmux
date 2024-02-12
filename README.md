@@ -8,3 +8,6 @@ git clone https://github.com/lightthefox/bashmux.git
 cd bashmux
 python bashmux.py
 ~~~
+
+
+Data from .termux was taken from https://github.com/Cabbagec/termux-ohmyzsh
